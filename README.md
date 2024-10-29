@@ -5,3 +5,4 @@
   <p align="center">نگاهی به فیزیک در پایتون</p>
 </h3>
 
+<img src="https://github.com/hesamzs/Physiton/blob/main/IMG.PNG"></img>
